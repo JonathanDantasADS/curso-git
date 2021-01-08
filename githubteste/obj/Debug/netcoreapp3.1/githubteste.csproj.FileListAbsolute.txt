@@ -1,0 +1,13 @@
+D:\P00\Github\githubteste\githubteste\bin\Debug\netcoreapp3.1\githubteste.exe
+D:\P00\Github\githubteste\githubteste\bin\Debug\netcoreapp3.1\githubteste.deps.json
+D:\P00\Github\githubteste\githubteste\bin\Debug\netcoreapp3.1\githubteste.runtimeconfig.json
+D:\P00\Github\githubteste\githubteste\bin\Debug\netcoreapp3.1\githubteste.runtimeconfig.dev.json
+D:\P00\Github\githubteste\githubteste\bin\Debug\netcoreapp3.1\githubteste.dll
+D:\P00\Github\githubteste\githubteste\bin\Debug\netcoreapp3.1\githubteste.pdb
+D:\P00\Github\githubteste\githubteste\obj\Debug\netcoreapp3.1\githubteste.csprojAssemblyReference.cache
+D:\P00\Github\githubteste\githubteste\obj\Debug\netcoreapp3.1\githubteste.AssemblyInfoInputs.cache
+D:\P00\Github\githubteste\githubteste\obj\Debug\netcoreapp3.1\githubteste.AssemblyInfo.cs
+D:\P00\Github\githubteste\githubteste\obj\Debug\netcoreapp3.1\githubteste.csproj.CoreCompileInputs.cache
+D:\P00\Github\githubteste\githubteste\obj\Debug\netcoreapp3.1\githubteste.dll
+D:\P00\Github\githubteste\githubteste\obj\Debug\netcoreapp3.1\githubteste.pdb
+D:\P00\Github\githubteste\githubteste\obj\Debug\netcoreapp3.1\githubteste.genruntimeconfig.cache
